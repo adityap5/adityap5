@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/imaditya_29" target="blank"><img src="https://img.shields.io/twitter/follow/imaditya_29?logo=twitter&style=for-the-badge" alt="imaditya_29" /></a> </p>
 
-- 🔭 I’m currently working on **SellerDashboard**
+- 🔭 I’m currently working on **FlatBase**
 
-- 🌱 I’m currently learning **Typescript , React-Native**
+- 🌱 I’m currently learning **Typescript, React-Native, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://adityapippal.netlify.app/](https://adityapippal.netlify.app/)
 
