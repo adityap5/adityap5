@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FlatBase**
 
-- 🌱 I’m currently learning **Typescript, React-Native, GraphQL**
+- 🌱 I’m currently learning **Next JS, Docker, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://adityapippal.netlify.app/](https://adityapippal.netlify.app/)
 
