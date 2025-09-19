@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Airline<br>👯 I’m looking to collaborate on Full Stack Development<br>🤝 I’m looking for help with Full Stack Development<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Development<br>⚡ Fun fact: Sometimes you gotta run before you can walk!
+🔭 I’m currently working on Airline<br>👯 I’m looking to collaborate on Full Stack Development<br>🤝 I’m looking for help with Full Stack Development<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Development<br>⚡ Fun fact: Sometimes you gotta run before you can walk!
 
 
 # 💻 Tech Stack:
